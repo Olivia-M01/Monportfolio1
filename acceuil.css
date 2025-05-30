@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(#ff007f, #b131fa);
+    margin: 50px;
+    padding: 300px;
+    font-size:40px;
+    color: rgba(255, 255, 255, 0.863);
+    width: 100%;
+    text-align: center;
+
+    
+}
+button{
+    padding: 20px;
+    font-size: small;
+    border-radius: 35px;
+    background: linear-gradient(#8726ad, #ff007f);
+    text-align: center;
+    border-color: white;
+}
